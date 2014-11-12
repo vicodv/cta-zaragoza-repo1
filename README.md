@@ -1,4 +1,4 @@
-cta-zaragoza-repo1
-==================
+Proyecto de ejemplo de uso de Git y GitHub
+================================
 
-Ejemplo de curso de Git
+Bienvenidos al proyecto
